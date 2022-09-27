@@ -22,7 +22,7 @@
   "_resolved": "https://registry.npmjs.org/truffle-hdwallet-provider/-/truffle-hdwallet-provider-1.0.2.tgz",
   "_shasum": "eb9ce2955e3a1fb8677ed3ad4949dfd9df913d73",
   "_spec": "truffle-hdwallet-provider",
-  "_where": "/Users/admin/Documents/test1155/erc-1155",
+  "_where": "/Users/admin/Documents/Github/SimpleGame/solidity",
   "author": {
     "name": "Tim Coulter",
     "email": "tim.coulter@consensys.net"
